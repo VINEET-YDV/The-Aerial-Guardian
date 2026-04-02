@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+numpy
+onnxruntime
+streamlit
+lap
+scipy
+filterpy
+ipython
